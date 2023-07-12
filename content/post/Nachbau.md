@@ -1,5 +1,5 @@
 ---
-title: "Rückblick"
+title: "Nachbau Anleitung"
 date: 2023-07-05T13:11:50+01:00
 draft: false
 coverImage: "../images/Ruckblick/Schwert_v3_seite.jpg"
