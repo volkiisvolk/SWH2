@@ -96,6 +96,19 @@ Wie auch schon gezeigt, habe ich viele Design Veränderungen an meinem Schwert v
 Auch beim Löten gab es wieder Challenges. Was ich am schlimmsten fand, war das löten eines USB-Kabels an meiner Stromversorgung. Das Problem war, dass ich ein USB-Kabel benötigt hab um meine Stromversorgung mit einer PowerBank zu Powern. Das USB-Kabel war leider aber so anfällig auf risse, dass es mindestens 20 mal gerissen ist, und ich es häufig nach löten musste. Dies hat ewig viel Zeit gekostet.
 Das Restliche Löten, lief sehr gut. Durch das Projekt vom letzten Semester konnte ich viel im Löten üben, und hatte daher kaum Probleme bis auf das Problem von Oben.
 
+
+### Kritik/Lobe
+
+Vorerst möchte ich mich bei Ali und Evgeny bedanken, dass sie uns immer Tatkräftig bei unseren Fragen geholfen haben und sich auch immer wieder die Zeit genommen haben, uns bei unserem Projekt zu Helfen. Oft gaben uns Ali und Evgeny auch viele Tipps und Tricks die uns bei unserem Projekt geholfen haben. Dazu war es nicht Selten, dass Ali oder Evgeny noch Stunden nach ihrer Verpflichteten Zeit noch im Lab waren, um uns Hilfe zu leisten.
+
+Was für mich ein Kritikpunkt ist, sind die Bestellwellen, die meiner Meinung nach ein wenig zu lange gedauert haben. Dies ist leider von uns auch schlecht beeinflussbar, da viele teile einfach lange brauchen, bis sie ankommen. Das bringt uns aber auch schon zu dem Thema was ich am kritischten sehe.
+
+Meiner Meinung nach war die Zeit zu knapp. Oft habe ich an der Uni nichts anderes gemacht als an meinem Projekt zu Arbeiten, da die ungefähr 6 Wochen einfach knapp waren. Das nächste mal, für die nach uns, würde ich mir wünschen, dass man etwas mehr Zeit hat. Nochmal etwas Puffer, um doch noch etwas hinzubekommen. Mir ist auch bewusst, dass es oft so ist, dass Leute dann ne Woche später anfangen. Aber in meinem Fall, hätte es auf jeden Fall sehr viel geholfen.
+
+Der Rest lief sonst sehr gut. Die Hardware wurde bereitgestellt und es war nie eine Frage ob man wirklich eine Hardware benötigt. Auch haben uns Ali und Evegeny, in diesem Themen bereich oft Unterstützt, und auch nochmal nach geschaut ob das mit unsrem System kompatibel ist.
+
+Ali hat z. B nachgerechnet ob die PowerBank die ich kaufen wollte, auch genug Strom liefert. Das hatte ich selber vergessen.
+
 ### Fazit
 
 Das Lichtschwert sollte also Schüsse abwehren können mit IR-Sensoren. Sounds abspielen können mit einem Amplifire und einem Lautsprecher und Bewegungen erkennen können mit einem Accelometer.
