@@ -77,7 +77,7 @@ Dadurch hab ich es geschafft, dass meine LED Matrix ein A Anzeigt
 
 ## Was genau ist I2C Serielle Kommunikation
 
-{{< figure src="../images/matrix.jpeg"  width="60%" height="60%">}}
+{{< figure src="../images_micro/matrix.jpeg"  width="60%" height="60%">}}
 
 Der I2C (Inter-Integrated Circuit) ist ein serieller Kommunikationsbus, der es ermöglicht, mehrere elektronische Geräte miteinander zu verbinden und miteinander zu kommunizieren. Es handelt sich um einen Master-Slave-Bus, bei dem ein einzelnes Gerät als Master fungiert und die Kommunikation kontrolliert, während die anderen Geräte als Slaves agieren und auf Anfragen des Masters reagieren.
 
