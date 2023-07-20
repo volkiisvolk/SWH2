@@ -4,9 +4,18 @@ date: 2023-07-05T13:11:50+01:00
 draft: false
 coverImage: "../images/Ruckblick/Schwert_v3_seite.jpg"
 metaAlignment: center
+
 coverMeta: out
 thumbnailImagePosition: left
 ---
+
+# Blogpost: Nachbau Anleitung
+
+course: Sketching with Hardware (https://www.notion.so/Sketching-with-Hardware-1708874aee034ecabbb42707a552315e?pvs=21)
+mastery: Not Started
+assignment: assignment ✅
+progress: not started
+🔁 Auto Duea: No
 
 ### Einleitung:
 
