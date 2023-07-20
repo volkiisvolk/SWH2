@@ -37,8 +37,16 @@ leichter ist als es den anschein hat.
 Die Präsentation selber lief sehr gut, ich glaube ich konnte den leuten alle Ihre Fragen beantworten und ich denke viele
 haben auch verstanden was ich machen wollte und wie es zu meinen kompikationen gekommen ist. Viele haben auch gleich
 gesagt, wie gut sie es finden, dass wir schon am anfang so ein Projekt auch wenn nicht perfekt, schaffen konnten.
+
+Hier ein Video von unseren Autos!
+
+<video src="car.mp4" controls title="Title"></video>
+
+
 Die Leute wirkten immer sehr Interessiert und auch überauss nett. Daher hat es auch mir sehr sehr viel spaß gemacht,
 leute kennenzulernen und Ihnen mein Projekt vorzustellen.
+
+
 
 ## Fazit
 
@@ -46,7 +54,11 @@ In diesem Projekt habe ich wertvolle Erfahrungen gesammelt und wichtige Lektione
 
 Eine wichtige Erkenntnis war auch, dass manche Dinge schwieriger sind als sie scheinen, während andere einfacher sind. Ich habe gelernt, dass es wichtig ist, realistisch zu sein und Herausforderungen anzunehmen, ohne die eigenen Fähigkeiten zu überschätzen.
 
-Für zukünftige Projekte nehme ich mir vor, besser organisiert und strukturierter zu arbeiten. Ich möchte auch frühzeitig klare Entscheidungen treffen und mich auf eine bestimmte Herangehensweise festlegen, um Komplikationen zu vermeiden.
+Ein großer Punkte den man nicht vergessen darf ist auch überarbeitung, oft ist mir aufgefallen, dass ich nach ein paar Stunden Arbeit, nur noch Fehler gemacht habe. Dies ist dann immer eher Cotra Produktiv. Das möchte ich im nächsten Projekt dann besser Organisieren.
+
+Für zukünftige Projekte nehme ich mir vor, besser organisiert und strukturierter zu arbeiten. Ich möchte auch frühzeitig klare Entscheidungen treffen und mich auf eine bestimmte Herangehensweise festlegen, um Komplikationen zu vermeiden. Zudem möchte ich z. B auch im vorarus einen Schaltplan machen und nicht einfach drauf los löten. Denn so entstehen leider oft Fehler. Wenn man sich da schon in Fritzing einen Plan erstellt, dann hat man eine genau Ahnung was wohin kommt, und man baut weniger Fehler.
+
+Zudem möchte ich mich mit diversen Tools besser Organisiern, so hat und Ali von einem Tool erzählt bei dem man ein Kanban board aufsetzten kann um so seine Tasks besser zu organisieren. Das Hilft mir persönlich sehr viel.
 
 Ich freue mich schon auf das nächste Semester, bei dem ich mein eigenes Projekt realisiern kann. Ich habe schon viele
 verschieden Ideen, wobei ich mir bei paar sachen noch unsicher bin. Ich denke über die semester Ferien wird das auf alleFälle bessser.

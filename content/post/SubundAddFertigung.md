@@ -20,6 +20,14 @@ Zum einem wäre da die Wärmeleitung. Metalle haben eine hohe Wärmeleitfähigke
 Dazu kommt auch, dass der Schmelzpunkt vieler Metalle  über den Temperaturen liegen, die der Emblaser 2 erzeugen kann. Selbst wenn der Laserstrahl auf das Metall fokussiert wird, wird es eher schmelzen als schneiden oder gravieren.
  Materialien wie PVC, Kunstleder, Farben und Lacke gehören nicht in den Lasercutter, da sie giftige Dämpfe entwickeln. Ebenso sollten leicht entflammbare Materialien nicht Gegenstand der Bearbeitung mit dem Lasercutter sein. Generell sollte für den seltenen, aber möglichen Fall, dass das zu bearbeitende Material Feuer fängt, der gesamte Vorgang beobachtet werden.
 
+In der Stunden durften wir dann selber noch etwas cutten. Ich habe mich dazu entschieden eine SVG die ich schon früher erstellt hatte zu cutten.
+Andere aus dem Kurs konnten eigene Zeichnugen auf Holz lasern lassen, oder eigene SVG cutten lassen so wie ich es gemacht habe.
+
+Hier ein Bild von dem was ich gecuttet habe.
+
+{{< figure src="../images/Cut.jpg" width="60%" height="60%">}}
+
+Ich konnte die erste Ebene im Unterricht cutten und den Rest irgendwann in meiner Freizeit. Den Rahmen hab ich selber gekauft. 
 
 
 Der erste Schritt, um mein Projekt zu planen, bestand in der Materialauswahl. Ich habe mich für Holz entschieden, da der 3D-Druck für die gesamte Karosserie zu lange dauern würde. Die einzelnen Teile werden mit dem Laser ausgeschnitten und durch Kleben oder Stecken miteinander verbunden.
