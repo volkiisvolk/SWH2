@@ -8,15 +8,6 @@ metaAlignment: center
 coverMeta: out
 thumbnailImagePosition: left
 ---
-
-# Blogpost: Nachbau Anleitung
-
-course: Sketching with Hardware (https://www.notion.so/Sketching-with-Hardware-1708874aee034ecabbb42707a552315e?pvs=21)
-mastery: Not Started
-assignment: assignment ✅
-progress: not started
-🔁 Auto Duea: No
-
 ### Einleitung:
 
 Mein Projekt war ein Lichtschwert, dieses sollte diverse Funktionen haben, wie ein Soundmodul, was Sounds abspielt, sobald das Lichtschwert eingeschaltet wird. Dazu ein Bewegungssensor, der tracken kann, on das Lichtschwert bewegt wurde, und dazu dann dementsprechende Sounds abspielen.
