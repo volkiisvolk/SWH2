@@ -8,14 +8,6 @@ coverMeta: out
 thumbnailImagePosition: left
 ---
 
-# Blogpost: Nachbau Anleitung
-
-course: Sketching with Hardware (https://www.notion.so/Sketching-with-Hardware-1708874aee034ecabbb42707a552315e?pvs=21)
-mastery: Not Started
-assignment: assignment ✅
-progress: not started
-🔁 Auto Duea: No
-
 ### Einleitung:
 
 Mein Projekt war ein Lichtschwert, dieses sollte diverse Funktionen haben, wie ein Soundmodul, was Sounds abspielt, sobald das Lichtschwert eingeschaltet wird. Dazu ein Bewegungssensor, der tracken kann, on das Lichtschwert bewegt wurde, und dazu dann dementsprechende Sounds abspielen.
@@ -79,7 +71,7 @@ Kabel-Knipser
 Ihr habt die Möglichkeit ein eigenes Design zu erstellen, oder ihr benutzt meine STL´s. Natürlich kann man auch da immer wieder Veränderungen vornehmen.
 Die letzte STL ist der Button und die Halterung, auch diese kann man noch anders designen. Aber sie sind so gebaut, dass sie perfekt in mein Projekt passen.
 
-[MainBody_First.stl](Blogpost%20Nachbau%20Anleitung%20e8856d31247a4f82b7518db19fe6753a/MainBody_First.stl)
+[MainBody_First.stl](Nachbau_assets/MainBody_First.stl)
 
 [MainBody_Second.stl](Blogpost%20Nachbau%20Anleitung%20e8856d31247a4f82b7518db19fe6753a/MainBody_Second.stl)
 
@@ -97,7 +89,9 @@ Auf einem Extra Board was wieder die gleiche größte hat, löten wir dann den M
 
 Das sollte dann ungefähr so aussehen
 
-![Schwert_Steckplatine.jpg](Blogpost%20Nachbau%20Anleitung%20e8856d31247a4f82b7518db19fe6753a/Schwert_Steckplatine.jpg)
+{{< figure src="../Nachbau_assets/Schwert_Steckplatine.jpg" width="60%" height="60%" caption="Das ist die Steckplatine in Fritzing Designed">}}
+
+
 
 Wie auch schon beschrieben sollen die Lochplatinen dann bei den Pinkenkabeln mit einer säge oder mit einem Clipser kaputt gemacht werden. 
 
@@ -118,25 +112,25 @@ In dem gedruckten Button ist ein Loch. In dieses passt der Schalter perfekt rein
 Als nächstes nehmen wir den LED Strip den wir haben, und befestigen diese rundherum am Stab. Den Abstand, kann man so variieren wie man möchte. Man sollte aber schonmal Platz frei halten für die Infrarot-Sensoren. 
 Das Sieht dann ungefähr so aus:
 
-![IMG_2397.jpeg](Blogpost%20Nachbau%20Anleitung%20e8856d31247a4f82b7518db19fe6753a/IMG_2397.jpeg)
+
+{{< figure src="../Nachbau_assets/IMG_2397.jpeg" width="60%" height="60%" caption="Der Stab mit der LED und den IR-Sensoren">}}
 
 Die LED´s haben genau 3 Löt Stellen und einen kleinen Pfeil, der die Richtung der LED anzeigt.
 
-![Untitled](Blogpost%20Nachbau%20Anleitung%20e8856d31247a4f82b7518db19fe6753a/Untitled.png)
+{{< figure src="../Nachbau_assets/Untitled.jpg" width="60%" height="60%" caption="Hier eine Beispiel LED.">}}
 
 5V steht natürlich für den Strom und GND für Ground. Das Mittlere Din und Do ist für Digitalinput und Digitaloutput. Der Pfeil ist wichtig, da die LED nur in die Richtung des Pfeiles Strom fließen lässt.
 
 Gleich daraufhin kann man auch die Infrarot-Sensoren anschließen und auf dem Stab kleben.
 
-![i3.jpg](Blogpost%20Nachbau%20Anleitung%20e8856d31247a4f82b7518db19fe6753a/i3.jpg)
+{{< figure src="../Nachbau_assets/i3.jpg" width="60%" height="60%" caption="Der VS183B und ihr Pinning">}}
 
 Hier kann man sehen wie wir die Infrarot zu Wiren haben. Davon sollte man so ungefähr 3 stück nehmen und im Abstand von 10cm verkabeln und verkleben.
 
 Wichtig ist dass wir die ganzen Kabel durch den Kopf des Lichtschwertes bekommen. Dafür gibt es vorgefertigte Tunnel die wir dafür nutzen können.
 
-![Hier ein Bild von der Vorrichtung.](Blogpost%20Nachbau%20Anleitung%20e8856d31247a4f82b7518db19fe6753a/Untitled%201.png)
 
-Hier ein Bild von der Vorrichtung.
+{{< figure src="../Nachbau_assets/halterung.jpg" width="60%" height="60%" caption="Hier ein Bild von der Vorrichtung">}}
 
 Das innere Loch ist dazu, dass man den Holz Stab befestigen kann. Der Äußere dann später für die PVC Röhre.
 
@@ -442,14 +436,13 @@ Der Code ist kommentiert und damit auch meiner Meinung nach zumindest Verständl
 ### Schritt 10: Zusammen Bauen.
 
 Wenn die Kabel stehen, gilt es die Boards direkt unter den Kopf zu legen.
-
-![Untitled](Blogpost%20Nachbau%20Anleitung%20e8856d31247a4f82b7518db19fe6753a/Untitled%202.png)
+{{< figure src="../Nachbau_assets/halterung_unten.jpg" width="60%" height="60%" caption="Die Halterung von unten">}}
 
 Hier ist noch genug Platz um das Board wenigstens Teilweise unterzubringen. Wir können dann die zwei einzelnen teile des Lichtschwerts so zusammenlegen , dass wir den Kopf perfekt reinstecken können
 
-![Untitled](Blogpost%20Nachbau%20Anleitung%20e8856d31247a4f82b7518db19fe6753a/Untitled%203.png)
+{{< figure src="../Nachbau_assets/Schwert_links.jpg" width="60%" height="60%" caption="Der VS183B und ihr Pinning">}}
 
-![Untitled](Blogpost%20Nachbau%20Anleitung%20e8856d31247a4f82b7518db19fe6753a/Untitled%204.png)
+{{< figure src="../Nachbau_assets/Schwert_rechts.jpg" width="60%" height="60%" caption="Der VS183B und ihr Pinning">}}
 
 Wie man bei dem Modell sehen kann, sind an den seiten Löcher um dort schrauben durch zu Stecken. Davor müssen wir die Löcher von Innen noch mit Muttern der gleichen Größer zukleben, damit wir die Schrauben auch reindrehen können. Ist die Technik nun verstaut, und die Schrauben drinnen, ist das Lichtschwert so gut wie Fertig.
 
