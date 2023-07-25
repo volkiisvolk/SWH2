@@ -74,8 +74,6 @@ Die letzte STL ist der Button und die Halterung, auch diese kann man noch anders
 
 <a href="https://1drv.ms/u/s!Atr3lo26MEmOhJVfDizuvDi8c5KkuA?download=1" download>Alle STLs zum Downloaden</a>
 
-<iframe src="https://onedrive.live.com/embed?resid=8E4930BA8D96F7DA%2168319&authkey=!ADrk5xBHrTiOuK8" width="98" height="120" frameborder="0" scrolling="no"></iframe>
-
 
 ### Schritt 2: Anfangen mit dem Löten und Verkabelung
 
@@ -438,9 +436,9 @@ Wenn die Kabel stehen, gilt es die Boards direkt unter den Kopf zu legen.
 
 Hier ist noch genug Platz um das Board wenigstens Teilweise unterzubringen. Wir können dann die zwei einzelnen teile des Lichtschwerts so zusammenlegen , dass wir den Kopf perfekt reinstecken können
 
-{{< figure src="../Nachbau_assets/Schwert_links.jpg" width="auto" height="auto" caption="Der VS183B und ihr Pinning">}}
+{{< figure src="../Nachbau_assets/Schwert_links.jpg" width="auto" height="auto" caption="Das Schwert von Rechts">}}
 
-{{< figure src="../Nachbau_assets/Schwert_rechts.jpg" width="auto" height="auto" caption="Der VS183B und ihr Pinning">}}
+{{< figure src="../Nachbau_assets/Schwert_rechts.jpg" width="auto" height="auto" caption="Das Schwert von Links">}}
 
 Wie man bei dem Modell sehen kann, sind an den seiten Löcher um dort schrauben durch zu Stecken. Davor müssen wir die Löcher von Innen noch mit Muttern der gleichen Größer zukleben, damit wir die Schrauben auch reindrehen können. Ist die Technik nun verstaut, und die Schrauben drinnen, ist das Lichtschwert so gut wie Fertig.
 
