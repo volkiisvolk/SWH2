@@ -460,3 +460,6 @@ Die Stromversorgung wird durch eine Powerbank gesteuert, aber eine 9V Batterie w
 Du hast es geschafft dein Lichtschwert zusammen zu Bauen, darauf kannst du Stolz sein! Ich hoffe die Anleitung war verständlich und man konnte jeden Schritt gut folgen. Ich würde dich um ein Feedback bitten. Sei dabei bitte so kritisch wie es geht, damit auch der Post so gut wie möglich wird.
 
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
+
+

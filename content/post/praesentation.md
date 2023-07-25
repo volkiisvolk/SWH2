@@ -31,7 +31,7 @@ können.
 Vorallem hat uns die Vorlesung gezeigt, dass einige sachen doch schwerer sind als mann meint, wobei auch einiges
 leichter ist als es den anschein hat.
 
-{{< figure src="../images/Volkis RC CAR (3)1024_1.jpg" width="60%" height="60%">}}
+{{< figure src="../images/Volkis RC CAR (3)1024_1.jpg" width="auto" height="auto">}}
 ## Die Präsentation.
 
 Die Präsentation selber lief sehr gut, ich glaube ich konnte den leuten alle Ihre Fragen beantworten und ich denke viele
