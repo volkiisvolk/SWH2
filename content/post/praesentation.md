@@ -44,7 +44,7 @@ Hier ein Video von unseren Autos!
 {{< rawhtml >}} 
 
 <video width=100% controls autoplay>
-    <source src="car.mp4" type="video/webm">
+    <source src="car.mp4" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
 
