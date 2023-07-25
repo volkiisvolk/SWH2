@@ -72,13 +72,13 @@ Ihr habt die Möglichkeit ein eigenes Design zu erstellen, oder ihr benutzt mein
 Die letzte STL ist der Button und die Halterung, auch diese kann man noch anders designen. Aber sie sind so gebaut, dass sie perfekt in mein Projekt passen.
 
 
-<a href="../post/Nachbau_assets/MainBody_First.stl" download= "MainBoady.stl">MainBody_First STL zum Downloaden</a>
+<a href="/content/post/Nachbau_assets/MainBody_First.stl" download= "MainBoady.stl">MainBody_First STL zum Downloaden</a>
 
-<a href="../post/Nachbau_assets/MainBody_Second.stl" download>MainBody_Second STL zum Downloaden</a>
+<a href="/content/post/Nachbau_assets/Nachbau_assets/MainBody_Second.stl" download>MainBody_Second STL zum Downloaden</a>
 
-<a href="../post/Nachbau_assets/Stabhalterug_Final.stl" download>Stabhalterung STL zum Downloaden</a>
+<a href="/content/post/Nachbau_assets/Stabhalterug_Final.stl" download>Stabhalterung STL zum Downloaden</a>
 
-<a href="../post/Nachbau_assets/MainBody_First.stl" download>BodyButton STL zum Downloaden</a>
+<a href="/content/post/Nachbau_assets/MainBody_First.stl" download>BodyButton STL zum Downloaden</a>
 
 
 ### Schritt 2: Anfangen mit dem Löten und Verkabelung
