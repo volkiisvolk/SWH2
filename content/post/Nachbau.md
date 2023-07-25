@@ -73,6 +73,8 @@ Die letzte STL ist der Button und die Halterung, auch diese kann man noch anders
 
 [MainBody_First.stl](Nachbau_assets/MainBody_First.stl)
 
+<a href="../post/Nachbau_assets/MainBody_First.stl" download>Click here to download</a>
+
 [MainBody_Second.stl](Blogpost%20Nachbau%20Anleitung%20e8856d31247a4f82b7518db19fe6753a/MainBody_Second.stl)
 
 [Stabhalterug_Final.stl](Blogpost%20Nachbau%20Anleitung%20e8856d31247a4f82b7518db19fe6753a/Stabhalterug_Final.stl)
