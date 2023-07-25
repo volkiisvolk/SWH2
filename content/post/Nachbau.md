@@ -72,7 +72,7 @@ Ihr habt die Möglichkeit ein eigenes Design zu erstellen, oder ihr benutzt mein
 Die letzte STL ist der Button und die Halterung, auch diese kann man noch anders designen. Aber sie sind so gebaut, dass sie perfekt in mein Projekt passen.
 
 
-<a href="/Stls.zip" download>Alle STLs zum Downloaden</a>
+<a href="https://1drv.ms/u/s!Atr3lo26MEmOhJVfDizuvDi8c5KkuA?download=1" download>Alle STLs zum Downloaden</a>
 
 <a href="/content/post/Nachbau_assets/Nachbau_assets/MainBody_Second.stl" download>MainBody_Second STL zum Downloaden</a>
 
