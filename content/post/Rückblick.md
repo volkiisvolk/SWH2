@@ -21,12 +21,12 @@ Mein Projekt war ein Lichtschwert, dieses sollte diverse Funktionen haben, wie e
 Dazu gab es noch Infrarot Sensoren, die in der klinge versteckt waren. Mit diesen sollten Blaster Schüsse simuliert werden, die von einer selbstgebauten Fernbedienung kommen. So sollte das Schwert diese “abwehren” können und in dem Einschlag Bereich mit der vorhanden Led reagieren und dazu ein Abwehr sound abspielen.
 Zum Anfang kann ich nur sagen, dass ich wieder sehr viele neue Sachen und Techniken gelernt habe, was mir im Zukunft das Arbeiten mit Microcontrollern oder auch das normaler handwerkeln zuhause vereinfachen wird. Insbesondere das 3D Modellieren konnte ich in diesem Projekt vertiefen, da ich mein Chassis komplett aus 3D Druck gebaut hab. Jedoch ist mir da aufgefallen, dass es sehr viel Zeit kosten kann, wenn man mehrere Versionen einer sache ModelliertDa. Viele veränderunen führten daszu, dass ich mein ganzes oder ein teil meines Modells häufig neu Drucken musste. Aber Mehr dazu dann in den einzelnen Abschnitten.
 
-### Jeder Anfang ist Schwer
+### Aller Anfang ist schwer
 
 In der ersten Woche, gleich nach dem Pitch, konnte ich nicht viel machen. Ich habe mich Hauptsächlich darum gekümmert, dass eine Teilerliste steht, damit unser Betreuer Ali Askari, die Teile Bestellen kann. 
 Dazu habe ich auch eine Roadmap entworfen, die mir beim erstellen des Projektes einen Leitfaden bietet, damit ich auch weiß was ich alles erreichen möchte. 
 
-### Der richtige Anfang
+### Startlinie
 
 Durch eine Empfehlung von Ali, habe ich mich in der ersten Woche gleich um das Testen der Sensoren gekümmert. Ich habe angefangen Infrarot Sensoren auszulesen und zu schauen wie diese Sich verhalten. Da die Idee ja war, dass die IR-Sensoren die Schüsse abwehren können, musste ich sie so testen, dass der Bereich den die IR-Sensoren einfangen sehr klein ist. Dies hab ich mit einfachen 3D-Modellierten Schutzvorrichtungen schaffen können.
 

@@ -43,6 +43,15 @@ Hier ein Video von unseren Autos!
 <video src="car.mp4" controls title="Title"></video>
 
 
+{{< rawhtml >}} 
+
+<video width=100% controls autoplay>
+    <source src="car.mp4" type="video/webm">
+    Your browser does not support the video tag.  
+</video>
+
+{{< /rawhtml >}}
+
 Die Leute wirkten immer sehr Interessiert und auch überauss nett. Daher hat es auch mir sehr sehr viel spaß gemacht,
 leute kennenzulernen und Ihnen mein Projekt vorzustellen.
 

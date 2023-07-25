@@ -13,7 +13,7 @@ thumbnailImagePosition: left
 Mein Projekt war ein Lichtschwert, dieses sollte diverse Funktionen haben, wie ein Soundmodul, was Sounds abspielt, sobald das Lichtschwert eingeschaltet wird. Dazu ein Bewegungssensor, der tracken kann, on das Lichtschwert bewegt wurde, und dazu dann dementsprechende Sounds abspielen.
 Dazu gab es noch Infrarot Sensoren, die in der klinge versteckt waren. Mit diesen sollten Blaster Schüsse simuliert werden, die von einer selbstgebauten Fernbedienung kommen. So sollte das Schwert diese “abwehren” können und in dem Einschlag Bereich mit der vorhanden LED reagieren und dazu ein Abwehr sound abspielen.
 
-Die Idee war es zu zeigen, dass man ein Lichtschwert auch billiger selbst bauen kann. Dies funktioniert auch ganz gut.
+Die Idee war es zu zeigen, dass man ein Lichtschwert auch billiger selbst bauen kann. Leider kosten Lichtschwerter sehr viel und sind meist auch von Schlechter Qualität, so kann man sogar sein eigenes Design machen, und dazu auch noch viel Geld Sparen.
 
 ### Bauteile:
 
@@ -431,7 +431,7 @@ void loop()
 }
 ```
 
-Der Code ist kommentiert und damit auch meiner Meinung nach zumindest Verständlich. 
+Der Code sollte Verständlich genug sein. Falls es fragen gibt, kann man sich jederzeit an mich wenden.
 
 ### Schritt 10: Zusammen Bauen.
 
@@ -452,4 +452,9 @@ Jetzt müssen wir nur noch die Schrauben nehmen, und darauf achten, dass wir dur
 Wenn auch dies geschafft ist, muss man nur noch die Kappe die wir ganz am Anfang gedruckt haben befestigen. Diese hält durch ein Klickverschluss den ich extra dafür gemacht habe.
 
 Die Stromversorgung wird durch eine Powerbank gesteuert, aber eine 9V Batterie würde das auch schaffen.
+
+### Schritt 11: Sein Lichtschwert bewundern.
+
+Du hast es geschafft dein Lichtschwert zusammen zu Bauen, darauf kannst du Stolz sein! Ich hoffe die Anleitung war verständlich und man konnte jeden Schritt gut folgen. Ich würde dich um ein Feedback bitten. Sei dabei bitte so kritisch wie es geht, damit auch der Post so gut wie möglich wird.
+
 
