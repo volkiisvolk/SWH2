@@ -74,12 +74,6 @@ Die letzte STL ist der Button und die Halterung, auch diese kann man noch anders
 
 <a href="https://1drv.ms/u/s!Atr3lo26MEmOhJVfDizuvDi8c5KkuA?download=1" download>Alle STLs zum Downloaden</a>
 
-<a href="/content/post/Nachbau_assets/Nachbau_assets/MainBody_Second.stl" download>MainBody_Second STL zum Downloaden</a>
-
-<a href="/content/post/Nachbau_assets/Stabhalterug_Final.stl" download>Stabhalterung STL zum Downloaden</a>
-
-<a href="/content/post/Nachbau_assets/MainBody_First.stl" download>BodyButton STL zum Downloaden</a>
-
 
 ### Schritt 2: Anfangen mit dem Löten und Verkabelung
 
@@ -91,7 +85,7 @@ Auf einem Extra Board was wieder die gleiche größte hat, löten wir dann den M
 
 Das sollte dann ungefähr so aussehen
 
-{{< figure src="../Nachbau_assets/Schwert_Steckplatine.jpg" width="auto" height="auto" caption="Das ist die Steckplatine in Fritzing Designed">}}
+{{< figure src="../Nachbau_assets/Schwert_Steckplatine.jpg" width="auto" height="auto" position = "center" caption="Das ist die Steckplatine in Fritzing Designed">}}
 
 
 
@@ -119,7 +113,7 @@ Das Sieht dann ungefähr so aus:
 
 Die LED´s haben genau 3 Löt Stellen und einen kleinen Pfeil, der die Richtung der LED anzeigt.
 
-{{< figure src="../Nachbau_assets/Untitled.jpg" width="auto" height="auto" caption="Hier eine Beispiel LED.">}}
+{{< figure src="../Nachbau_assets/Untitled.jpg" width="auto" height="auto" position = "center" caption="Hier eine Beispiel LED.">}}
 
 5V steht natürlich für den Strom und GND für Ground. Das Mittlere Din und Do ist für Digitalinput und Digitaloutput. Der Pfeil ist wichtig, da die LED nur in die Richtung des Pfeiles Strom fließen lässt.
 
