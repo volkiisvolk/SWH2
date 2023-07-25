@@ -40,8 +40,6 @@ gesagt, wie gut sie es finden, dass wir schon am anfang so ein Projekt auch wenn
 
 Hier ein Video von unseren Autos!
 
-<video src="car.mp4" controls title="Title"></video>
-
 
 {{< rawhtml >}} 
 
