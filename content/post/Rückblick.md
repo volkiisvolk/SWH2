@@ -94,7 +94,17 @@ Ich habe ja schon oft erwähnt, dass Platz einer der großen Herausforderungen w
 Wie auch schon gezeigt, habe ich viele Design Veränderungen an meinem Schwert vornehmen müssen. Da das auch nicht auf anhieb geklappt hat. Oft war es so, dass der Platz nicht gereicht hat. Die klinge nicht gehalten hat. Ich z. B bei einem Design gar nicht mehr den Button reinbekommen habe, oder einmal war es so, dass der Kopf vom Lichtschwert zu wenig halt beim Kleben hatte, und dadurch der Kopf abgerissen ist.
 
 Auch beim Löten gab es wieder Challenges. Was ich am schlimmsten fand, war das löten eines USB-Kabels an meiner Stromversorgung. Das Problem war, dass ich ein USB-Kabel benötigt hab um meine Stromversorgung mit einer PowerBank zu Powern. Das USB-Kabel war leider aber so anfällig auf risse, dass es mindestens 20 mal gerissen ist, und ich es häufig nach löten musste. Dies hat ewig viel Zeit gekostet.
-Das Restliche Löten, lief sehr gut. Durch das Projekt vom letzten Semester konnte ich viel im Löten üben, und hatte daher kaum Probleme bis auf das Problem von Oben.
+Das Restliche Löten, lief sehr gut. Durch das Projekt vom letzten Semester konnte ich viel im Löten üben, und hatte daher kaum Probleme bis auf 
+das Problem von Oben.
+
+{{< rawhtml >}} 
+
+<video width=100% controls autoplay>
+    <source src="../Nachbau_assets/Funktion_Hit.mp4" type="video/mp4">
+    Your browser does not support the video tag.  
+</video>
+
+{{< /rawhtml >}}
 
 
 ### Kritik/Lobe
@@ -125,3 +135,4 @@ Während des Projekts stieß ich auf verschiedene Herausforderungen, darunter Pl
 Während des Projekts habe ich auch wertvolle Lektionen gelernt, wie die Bedeutung der Wahl der richtigen Libraries, die sorgfältige Verarbeitung von Bauteilen und die beharrliche Problemlösung. Diese Erkenntnisse werden mir in zukünftigen Projekten und im Umgang mit Mikrocontrollern und handwerklichen Tätigkeiten von großem Nutzen sein.
 
 Alles in allem war das Lichtschwert-Projekt eine wertvolle Erfahrung, die meine Fähigkeiten erweitert und mich dazu ermutigt hat, neue Herausforderungen anzunehmen. Ich freue mich darauf, mein erworbenes Wissen und meine Fähigkeiten in zukünftigen Projekten weiter anzuwenden und zu verbessern.
+
