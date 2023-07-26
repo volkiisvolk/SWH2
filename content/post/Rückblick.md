@@ -91,6 +91,15 @@ Probleme hatte ich leider einige beim Arbeiten an diesem Projekt.
 Ich hab wohl am Anfang, eine schlechte Library für den Bewegungssensor also den MPU-6050 genutzt. Daher hatte ich eine sehr lange Zeit gewisse Probleme mit meinen LED´s. Da der MPU beim ansteuern in dieser Library einen großen delay verursacht hat, sind meine LED´s nicht richtig aufgeleuchtet, dadurch hatte ich ewig viele Code Fehler die ich erst gegen Ende des Projekts verbessern konnte, wo ich gemerkt habe, dass es an der Library liegt.
 Ich habe ja schon oft erwähnt, dass Platz einer der großen Herausforderungen war. Da das Lichtschwert nicht zu dich werden durfte war es wichtitg dass alles klein und sparsam ist. Dadurch habe ich leider auch einen Kurzschluss verursacht, beidem mein Arduino Nano den Geist aufgegeben hat. Zu dem hab ich durch das rein drücken von meiner Platine wohl einmal einen DFPlayerMini kaputt gemacht, da ich wohl kleine Teile abgerissen habe während dem Reindrücken.
 
+{{< rawhtml >}} 
+
+<video width=100% controls>
+    <source src="../Nachbau_asset" type="video/mp4">
+</video>
+
+{{< /rawhtml >}}
+
+
 Wie auch schon gezeigt, habe ich viele Design Veränderungen an meinem Schwert vornehmen müssen. Da das auch nicht auf anhieb geklappt hat. Oft war es so, dass der Platz nicht gereicht hat. Die klinge nicht gehalten hat. Ich z. B bei einem Design gar nicht mehr den Button reinbekommen habe, oder einmal war es so, dass der Kopf vom Lichtschwert zu wenig halt beim Kleben hatte, und dadurch der Kopf abgerissen ist.
 
 Auch beim Löten gab es wieder Challenges. Was ich am schlimmsten fand, war das löten eines USB-Kabels an meiner Stromversorgung. Das Problem war, dass ich ein USB-Kabel benötigt hab um meine Stromversorgung mit einer PowerBank zu Powern. Das USB-Kabel war leider aber so anfällig auf risse, dass es mindestens 20 mal gerissen ist, und ich es häufig nach löten musste. Dies hat ewig viel Zeit gekostet.
@@ -99,12 +108,14 @@ das Problem von Oben.
 
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay>
+<video width=100% controls>
     <source src="../Nachbau_assets/Funktion_Hit.mp4" type="video/mp4">
-    Your browser does not support the video tag.  
 </video>
 
 {{< /rawhtml >}}
+
+
+
 
 
 ### Kritik/Lobe
