@@ -94,7 +94,7 @@ Ich habe ja schon oft erwähnt, dass Platz einer der großen Herausforderungen w
 {{< rawhtml >}} 
 
 <video width=100% controls>
-    <source src="../Nachbau_asset" type="video/mp4">
+    <source src="../Nachbau_assets/LichtschwertAn.mp4" type="video/mp4">
 </video>
 
 {{< /rawhtml >}}
